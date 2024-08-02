@@ -10,6 +10,6 @@ The NWU Tech Trends Telemetry API is a RESTful API that tracks the amount of tim
 
 ## Features
 CRUD Operations: The API supports Create, Read, Update, and Delete operations for telemetry data.
-Telemetry Tracking: Automatically records data whenever an automation runs, capturing time saved and associated costs.
 
+Tracking: Automatically records data whenever an automation runs, capturing time saved and associated costs.                                     
 Data Grouping: Allows grouping of data by project and client for detailed reporting.
