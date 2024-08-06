@@ -15,6 +15,5 @@ Tracking: Automatically records data whenever an automation runs, capturing time
 Data Grouping: Allows grouping of data by project and client for detailed reporting.
 
 ## Reference list
-24 Aug CMPG323 weekly virtual class API Security (no date) www.youtube.com. Available at: https://www.youtube.com/watch?v=tg_0o6U_J-w.
-
+www.youtube.com. (2023). 24 Aug CMPG323 weekly virtual class API Security. [online] Available at: https://www.youtube.com/watch?v=tg_0o6U_J-w [Accessed 6 Aug. 2024].
 ‌
