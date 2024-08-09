@@ -5,6 +5,7 @@
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Reference List](#reference-list)
+4. [Training badge](#training-badge)
    
 ## Overview
 The NWU Tech Trends Telemetry API is a RESTful API that tracks the amount of time saved by Tech Trends' automations. This telemetry data is utilized to determine the cost savings related with each automation and organize it by project and customer. The API acts as a back-end service, recording and retrieving telemetry data to provide essential information into the efficiency and cost effect of automations.
@@ -42,6 +43,10 @@ Data Grouping: Allows grouping of data by project and client for detailed report
 24. Taylor, T. (2020). Two simple ways to create custom APIs in Azure. [online] App Architecture. Available at: https://www.techtarget.com/searchapparchitecture/tip/Two-simple-ways-to-create-custom-APIs-in-Azure [Accessed 9 Aug. 2024].
 25. ‌Contentful. (2023). What is an API endpoint? [online] Available at: https://www.contentful.com/blog/api-endpoint/#:~:text=In%20summary%2C%20an%20API%20endpoint [Accessed 8 Aug 2024].
 26. University of Sheffield (2010). Harvard referencing. [online] Shef.ac.uk. Available at: https://www.librarydevelopment.group.shef.ac.uk/referencing/harvard.html [Accessed 30 Jul 2024].
+
+## Training badge
+![AzureTraining](https://github.com/user-attachments/assets/dbf475ff-16aa-4fe9-97d4-77b64c9f436d)
+
 
 
  
