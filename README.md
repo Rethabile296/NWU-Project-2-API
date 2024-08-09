@@ -56,7 +56,27 @@ Code with Jason. (2020). The purpose of private methods and when to use them - C
 
 GeeksforGeeks (2019). How to call private method from another class in Java with help of Reflection API? [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/how-to-call-private-method-from-another-class-in-java-with-help-of-reflection-api/ [Accessed 5 Aug. 2024].
 
+Frontegg. (2023). API Authentication and Authorization: 6 Methods and Tips for Success. [online] Available at: https://frontegg.com/guides/api-authentication-api-authorization [Accessed 6 Aug. 2024].
 
+Strebel, D. and Varun Krovvidi (2023). 5 ways to implement REST API authentication. [online] Google Cloud Blog. Available at: https://cloud.google.com/blog/products/api-management/5-ways-to-implement-rest-api-authentication [Accessed 7 Aug. 2024].
+
+dlepow (2022) Add an API manually using the Azure portal, learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/azure/api-management/add-api-manually [Accessed 9 Aug 2024].
+
+Taylor, T. (2020). Two simple ways to create custom APIs in Azure. [online] App Architecture. Available at: https://www.techtarget.com/searchapparchitecture/tip/Two-simple-ways-to-create-custom-APIs-in-Azure [Accessed 9 Aug. 2024].
+
+‌Contentful. (2023). What is an API endpoint? [online] Available at: https://www.contentful.com/blog/api-endpoint/#:~:text=In%20summary%2C%20an%20API%20endpoint [Accessed 8 Aug 2024].
+
+University of Sheffield (2010). Harvard referencing. [online] Shef.ac.uk. Available at: https://www.librarydevelopment.group.shef.ac.uk/referencing/harvard.html [Accessed 30 Jul 2024].
+
+‌
+
+‌
+
+‌
+
+‌
+
+‌
 
 ‌
 ‌
