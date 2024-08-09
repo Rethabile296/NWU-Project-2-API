@@ -4,8 +4,9 @@
 ## Table of contents
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Reference List](#reference-list)
-4. [Training badge](#training-badge)
+3. [Endpoints](#endpoints)
+4. [Reference List](#reference-list)
+5. [Training badge](#training-badge)
    
 ## Overview
 The NWU Tech Trends Telemetry API is a RESTful API that tracks the amount of time saved by Tech Trends' automations. This telemetry data is utilized to determine the cost savings related with each automation and organize it by project and customer. The API acts as a back-end service, recording and retrieving telemetry data to provide essential information into the efficiency and cost effect of automations.
@@ -14,6 +15,16 @@ The NWU Tech Trends Telemetry API is a RESTful API that tracks the amount of tim
 CRUD Operations: The API supports Create, Read, Update, and Delete operations for telemetry data.                       
 Tracking: Automatically records data whenever an automation runs, capturing time saved and associated costs.                                     
 Data Grouping: Allows grouping of data by project and client for detailed reporting.
+
+## Endpoints
+[Login]: Authenticates a user by verifying their credentials (e.g., username and password). 
+Functionality: Accepts login details and returns a token if the credentials are valid, allowing access to protected resources.
+
+[Register]: Allows a new user to create an account. 
+Functionality: Collects user details (e.g., username, email, password) and stores them in the system, creating a new user profile.
+
+[Register admin]: Registers a new admin user with elevated privileges.
+Functionality: Similar to the regular registration endpoint but ensures the new account has admin rights, often requiring additional validation or credentials.
 
 ## Reference list
 
