@@ -40,6 +40,38 @@ jongalloway (n.d.). Create a web API with ASP.NET Core controllers - Training. [
 
 Rick-Anderson and Larkin, K. (2024). Tutorial: Create a web API with ASP.NET Core. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio [Accessed 6 Aug. 2024].
 
+Fernando, J. (2024). What Are stakeholders: Definition, Types, and Examples. [online] Investopedia. Available at: https://www.investopedia.com/terms/s/stakeholder.asp.
+
+Redgate forums. (2018). Commit reports changes committed to source control, but they are not. [online] Available at: https://forum.red-gate.com/discussion/83928/commit-reports-changes-committed-to-source-control-but-they-are-not [Accessed 1 Aug. 2024].
+
+GitHub Docs. (n.d.). Cloning a repository. [online] Available at: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository [Accessed 1 Aug. 2024].
+
+bricelam (2023). Reverse Engineering - EF Core. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli [Accessed 30 Jul. 2024].
+
+Amazon.com. (2024). Methods for REST APIs in API Gateway - Amazon API Gateway. [online] Available at: https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-method-settings.html#:~:text=An%20API%20method%20request%20is [Accessed 4 Aug. 2024].
+
+Amazon.com. (2024). Security policy for HTTP APIs in API Gateway - Amazon API Gateway. [online] Available at: https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-ciphers.html [Accessed 4 Aug. 2024].
+
+Code with Jason. (2020). The purpose of private methods and when to use them - Code with Jason. [online] Available at: https://www.codewithjason.com/purpose-private-methods-use/#:~:text=Private%20methods%20help%20reduce%20the%20size%20of%20an%20object [Accessed 5 Aug. 2024].
+
+GeeksforGeeks (2019). How to call private method from another class in Java with help of Reflection API? [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/how-to-call-private-method-from-another-class-in-java-with-help-of-reflection-api/ [Accessed 5 Aug. 2024].
+
+
+
+‌
+‌
+
+‌
+
+‌
+
+‌
+
+‌
+
+‌
+‌
+
 
 
 ‌
