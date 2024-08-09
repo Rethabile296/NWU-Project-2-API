@@ -24,5 +24,22 @@ www.youtube.com. (2023). 17 Aug CMPG323 weekly virtual class Cloud, deploy API. 
 
 www.youtube.com. (2023). 24 Aug CMPG323 weekly virtual class API Security. [online] Available at: https://www.youtube.com/watch?v=tg_0o6U_J-w [Accessed 6 Aug. 2024].
 
+The JPanda. (2020). [Python] Automating ASP.NET Core Web API Creation That Communicates With Your Database in 60 Seconds or Less. [online] Available at: https://thejpanda.com/2020/08/10/python-automating-asp-net-core-web-api-creation-that-communicates-with-your-database-in-60-seconds-or-less/ [Accessed 7 Aug. 2024].
+
+codemillmatt (2022). Publish an ASP.NET Core web API to Azure API Management with Visual Studio. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0 [Accessed 6 Aug. 2024].
+
+Miller, J. (2022). Join two entities in .NET Core, using lambda and Entity Framework Core. [online] JD Bots. Available at: https://jd-bots.com/2022/01/24/join-two-entities-in-net-core-using-lambda-and-entity-framework-core/ [Accessed 3 Aug. 2024].
+
+procoder (2020). Entity Framework Core in ASP.NET Core 3.1. [online] Pro Code Guide. Available at: https://procodeguide.com/programming/entity-framework-core-in-asp-net-core/ [Accessed 3 Aug. 2024].
+
+nishanil (n.d.). Create microservices with .NET and ASP.NET Core - Training. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/training/paths/create-microservices-with-dotnet/ [Accessed 3 Aug. 2024].
+
+RicoSuter (2022). ASP.NET Core web API documentation with Swagger / OpenAPI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1 [Accessed 6 Aug. 2024].
+
+jongalloway (n.d.). Create a web API with ASP.NET Core controllers - Training. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/ [Accessed 6 Aug. 2024].
+
+Rick-Anderson and Larkin, K. (2024). Tutorial: Create a web API with ASP.NET Core. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio [Accessed 6 Aug. 2024].
+
+
 
 ‌
