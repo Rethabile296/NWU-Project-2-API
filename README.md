@@ -16,6 +16,13 @@ Data Grouping: Allows grouping of data by project and client for detailed report
 
 ## Reference list
 
-All references must be in harvard referencing style for the project!
+www.youtube.com. (2023). 3 August CMPG323 weekly virtual class Intro to APIs. [online] Available at: https://www.youtube.com/watch?v=-kaBMzOPiP0 [Accessed 4 Aug. 2024].
+
+www.youtube.com. (2023). 10 Aug CMPG323 weekly virtual class API Controllers. [online] Available at: https://www.youtube.com/watch?v=kiSJGGy29fY [Accessed 5 Aug. 2024].
+
+www.youtube.com. (2023). 17 Aug CMPG323 weekly virtual class Cloud, deploy API. [online] Available at: https://www.youtube.com/watch?v=murThM9ATJA [Accessed 6 Aug. 2024].‌
+
 www.youtube.com. (2023). 24 Aug CMPG323 weekly virtual class API Security. [online] Available at: https://www.youtube.com/watch?v=tg_0o6U_J-w [Accessed 6 Aug. 2024].
+
+
 ‌
